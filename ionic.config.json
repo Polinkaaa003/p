@@ -1,0 +1,7 @@
+{
+  "name": "polinka",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
